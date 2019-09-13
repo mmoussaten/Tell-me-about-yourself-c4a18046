@@ -1,0 +1,21 @@
+h1 {
+      color: red;
+    }
+
+ul {
+	 color:blue;
+       }
+h2 {
+	 color:blue;
+       }       
+ol{
+      color:blue;
+       }  
+body {
+    background-color: teal;
+    color: brown;
+      } 
+  img {
+    height: 350px;
+    width: 550px;
+  }
